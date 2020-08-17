@@ -8,11 +8,39 @@
 
 
  
-## Projeto 
+## 📖 Projeto 
  
 Projeto desenvolvido na 2ª edição da Next Level Week (Rocketseat). Trilha Discovery ministrada pelo <a href="https://github.com/maykbrito/">Mayk Brito</a>. É uma aplicação que combina quem quer aprender com quem ensina a matéria escolhida
- 
 
+
+## 🚀 Tecnologias utilizadas
+
+O projeto está desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Node.js 
+- Nunjucks 
+- SQLite 
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+ 
+ ## ⌨ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
+
+# Entrar no diretório
+cd proffy-discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
 
