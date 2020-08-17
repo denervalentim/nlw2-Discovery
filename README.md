@@ -25,7 +25,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - SQLite 
  
  
- ## ⌨ Como executar o projeto
+ ## 🤔 Como executar o projeto
 
 ```bash
 # Clonar o repositório
