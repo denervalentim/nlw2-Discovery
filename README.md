@@ -10,7 +10,7 @@
  
 ## Projeto 
  
-Projeto desenvolvido na 2ª edição da Next Level Week (Rocketseat). Trilha Discovery ministrada pelo Mayk Brito
+Projeto desenvolvido na 2ª edição da Next Level Week (Rocketseat). Trilha Discovery ministrada pelo <a href="https://github.com/maykbrito/">Mayk Brito</a>. É uma aplicação que combina quem quer aprender com quem ensina a matéria escolhida
  
 
  
